@@ -9,5 +9,6 @@ The simulation utilizes the Vietnam Household Living Standard Survey as the inpu
 
 ### Instruction
 Once the appropriate VHLSS data is saved in the working directory, run vnmod_shiny.R
-You can adjust different taxes, subsidy policies on the left panel, press submit to see the resutls.
+You can adjust different taxes, subsidy policies on the left panel, press submit to see the results.
 **Caution:** Do not leave input fields empty as it will return NA.
+To customize new policies, the code must be modified to target appropriate subjects to apply the policy.
